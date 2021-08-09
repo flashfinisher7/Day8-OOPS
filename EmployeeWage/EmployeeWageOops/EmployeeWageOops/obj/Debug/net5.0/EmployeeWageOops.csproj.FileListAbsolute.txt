@@ -1,0 +1,16 @@
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\bin\Debug\net5.0\EmployeeWageOops.exe
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\bin\Debug\net5.0\EmployeeWageOops.deps.json
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\bin\Debug\net5.0\EmployeeWageOops.runtimeconfig.json
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\bin\Debug\net5.0\EmployeeWageOops.runtimeconfig.dev.json
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\bin\Debug\net5.0\EmployeeWageOops.dll
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\bin\Debug\net5.0\ref\EmployeeWageOops.dll
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\bin\Debug\net5.0\EmployeeWageOops.pdb
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\obj\Debug\net5.0\EmployeeWageOops.csproj.AssemblyReference.cache
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\obj\Debug\net5.0\EmployeeWageOops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\obj\Debug\net5.0\EmployeeWageOops.AssemblyInfoInputs.cache
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\obj\Debug\net5.0\EmployeeWageOops.AssemblyInfo.cs
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\obj\Debug\net5.0\EmployeeWageOops.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\obj\Debug\net5.0\EmployeeWageOops.dll
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\obj\Debug\net5.0\ref\EmployeeWageOops.dll
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\obj\Debug\net5.0\EmployeeWageOops.pdb
+C:\Users\mvsan\source\repos\EmployeeWageOops\EmployeeWageOops\obj\Debug\net5.0\EmployeeWageOops.genruntimeconfig.cache
